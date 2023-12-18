@@ -1,0 +1,2 @@
+# NinjaShoyo
+Biasa saja
